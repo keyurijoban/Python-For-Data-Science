@@ -1,6 +1,6 @@
 # Python-For-Data-Science
 
-## This repo contains code for a half day workshop on data science using python.
+## This repo contains code for a one day workshop on data science using python.
 
 Following topics are covered:
 1. Basic Python Data Structures
